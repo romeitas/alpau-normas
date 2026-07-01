@@ -1,6 +1,6 @@
 {
   "formato": 1,
-  "fecha_publicacion": "2026-06-11T11:58:33.036Z",
+  "fecha_publicacion": "2026-07-01T05:43:11.842Z",
   "normas": [
     {
       "source": "LIRPF",
@@ -33,9 +33,9 @@
       "source": "LGT",
       "area": "fiscal",
       "normaId": "BOE-A-2003-23186",
-      "fecha_referencia": "20260529T070758Z",
+      "fecha_referencia": "20260626T111543Z",
       "archivo": "norma-fiscal-LGT.json",
-      "sha256": "3f4df048671eb77ad58aaaf2894b3b79277b8207693d1eea6cbfefeb736cf72a",
+      "sha256": "d4785dc24c064311c5e0e2974ee378efa8cb7ec6a2301d2086b1753f3f2ef462",
       "numItems": 292
     },
     {
@@ -96,18 +96,18 @@
       "source": "IRNR",
       "area": "fiscal",
       "normaId": "BOE-A-2004-4527",
-      "fecha_referencia": "20260529T070758Z",
+      "fecha_referencia": "20260623T065146Z",
       "archivo": "norma-fiscal-IRNR.json",
-      "sha256": "3d5b4b5477263466b42e8054db8ff5167d4d44dbc27c18b80d4b2096cc1d6a6d",
+      "sha256": "33ec549b08ecdeb574bd9bd219db29a38fcb97c7d46a7b2d88cae98e51bfcbd9",
       "numItems": 54
     },
     {
       "source": "IIEE",
       "area": "fiscal",
       "normaId": "BOE-A-1992-28741",
-      "fecha_referencia": "20260525T080025Z",
+      "fecha_referencia": "20260630T110842Z",
       "archivo": "norma-fiscal-IIEE.json",
-      "sha256": "a0a9d54638c9e9d88d33253204807d0bdc4a8cede085c1055bf0eaf7664e0ecd",
+      "sha256": "f616dd68f18ee167f24577361f8952ed27b252c90181f6ee3251ef03db2925ac",
       "numItems": 120
     },
     {
@@ -123,18 +123,18 @@
       "source": "Ley39_2015",
       "area": "common",
       "normaId": "BOE-A-2015-10565",
-      "fecha_referencia": "20260601T111024Z",
+      "fecha_referencia": "20260626T073733Z",
       "archivo": "norma-common-Ley39_2015.json",
-      "sha256": "5f91e1fe35cbdd6cb6fa9f988f43556883f82c852b4ca0233166d454974439d8",
+      "sha256": "572cb552aef4f817ed4e07035a095b36c2dc9db5c929326b924a7ee2ede3ca9e",
       "numItems": 133
     },
     {
       "source": "Ley40_2015",
       "area": "common",
       "normaId": "BOE-A-2015-10566",
-      "fecha_referencia": "20260604T085624Z",
+      "fecha_referencia": "20260629T071551Z",
       "archivo": "norma-common-Ley40_2015.json",
-      "sha256": "51416e2d3b49181f38692b641507c1603c78093f57657f42299a2a274064c46e",
+      "sha256": "b7a165ebe9028e1d8caf324c5d711dcad0b92fbc38c9edfebed18379cbbd8667",
       "numItems": 166
     },
     {
@@ -150,9 +150,9 @@
       "source": "CodigoCivil",
       "area": "civil",
       "normaId": "BOE-A-1889-4763",
-      "fecha_referencia": "20260421T104720Z",
+      "fecha_referencia": "20260626T073703Z",
       "archivo": "norma-civil-CodigoCivil.json",
-      "sha256": "7e626d43be160a51d949e5d91fa8b26f2a6511ed96346c6a31deb11a603f58e8",
+      "sha256": "b9612e1b459c8eced4baa928727fe9bb10c9fe41aec7589fe42de5f13a4cbec9",
       "numItems": 1951
     },
     {
@@ -204,36 +204,36 @@
       "source": "ET",
       "area": "laboral",
       "normaId": "BOE-A-2015-11430",
-      "fecha_referencia": "20260608T083246Z",
+      "fecha_referencia": "20260630T114132Z",
       "archivo": "norma-laboral-ET.json",
-      "sha256": "743ee2f962f1223d81da6a2410710e0a21ee7ab02f578bc2bae166abf3f60289",
+      "sha256": "1e3cb3fa12cf617a454c64ed85b08948f7b49720cb0584aa9c074167c369f268",
       "numItems": 95
     },
     {
       "source": "LRJS",
       "area": "laboral",
       "normaId": "BOE-A-2011-15936",
-      "fecha_referencia": "20260429T064903Z",
+      "fecha_referencia": "20260626T073734Z",
       "archivo": "norma-laboral-LRJS.json",
-      "sha256": "f4e04ccacccbf68308b4a22ac892cfc989093b8eac767743c5ad1bfedc4254c4",
+      "sha256": "615e309eebf8daa83e4843d5d40967ab825306931c3d13ccb5a8f76c5d1ada2f",
       "numItems": 310
     },
     {
       "source": "LGSS",
       "area": "laboral",
       "normaId": "BOE-A-2015-11724",
-      "fecha_referencia": "20260601T065451Z",
+      "fecha_referencia": "20260630T082129Z",
       "archivo": "norma-laboral-LGSS.json",
-      "sha256": "952156760d0257126576c87303c6f7be0a19d3d51377afc02c57c6136301e5c6",
+      "sha256": "f8389a96a9727298fed6291d8924990fecb87e20bdd9aedcba7724143c5ad323",
       "numItems": 385
     },
     {
       "source": "LPRL",
       "area": "laboral",
       "normaId": "BOE-A-1995-24292",
-      "fecha_referencia": "20260608T070351Z",
+      "fecha_referencia": "20260622T064046Z",
       "archivo": "norma-laboral-LPRL.json",
-      "sha256": "06b7d458e45a74971b3d18f0824bdce4689e1903b58feef279bc2934510d007c",
+      "sha256": "0d58233c76576012c37677ddc671768cbbda1554061583bfe1451f20669a71f8",
       "numItems": 55
     }
   ]
