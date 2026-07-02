@@ -1,6 +1,6 @@
 {
   "formato": 1,
-  "fecha_publicacion": "2026-07-01T05:43:11.842Z",
+  "fecha_publicacion": "2026-07-02T07:52:56.098Z",
   "normas": [
     {
       "source": "LIRPF",
@@ -8,7 +8,7 @@
       "normaId": "BOE-A-2006-20764",
       "fecha_referencia": "20260429T074904Z",
       "archivo": "norma-fiscal-LIRPF.json",
-      "sha256": "acc571998986e733f2a842b12d683cae390e34825d1b5208661d8dc882daafdc",
+      "sha256": "c2427ad280008508016ed0b2aaac13fd3a3f2a9bad8b8d6ed96b7a57a34c70df",
       "numItems": 112
     },
     {
@@ -17,7 +17,7 @@
       "normaId": "BOE-A-2014-12328",
       "fecha_referencia": "20260529T084647Z",
       "archivo": "norma-fiscal-LIS.json",
-      "sha256": "dafdfd53b5447b1d1293961637ef9dcadd02e2c8c1d25b9218140785dc8e26ab",
+      "sha256": "1eb5fbac8ff0490e0c94e77640588f311313f27f8366151cb521ba48bdd132ef",
       "numItems": 136
     },
     {
@@ -26,7 +26,7 @@
       "normaId": "BOE-A-1992-28740",
       "fecha_referencia": "20260302T085950Z",
       "archivo": "norma-fiscal-LIVA.json",
-      "sha256": "80591ee7547467cb352918f4fcf623adee73153c66473e259027576da777e8fb",
+      "sha256": "e5f129bd7a259b8ac0ef6117d1851d1c4650bb0d4ed36d1ca6fdcec2dae0d91f",
       "numItems": 215
     },
     {
@@ -35,7 +35,7 @@
       "normaId": "BOE-A-2003-23186",
       "fecha_referencia": "20260626T111543Z",
       "archivo": "norma-fiscal-LGT.json",
-      "sha256": "d4785dc24c064311c5e0e2974ee378efa8cb7ec6a2301d2086b1753f3f2ef462",
+      "sha256": "dec25bc2d8f3009b22e1e860e7cc2a473e563f74965ad9eff77857959bb965ef",
       "numItems": 292
     },
     {
@@ -44,7 +44,7 @@
       "normaId": "BOE-A-1991-14392",
       "fecha_referencia": "20260327T073517Z",
       "archivo": "norma-fiscal-LIP.json",
-      "sha256": "186989d71b6a70854a40e02317ad73b966d0843a0494f294840b35b05f1513ac",
+      "sha256": "1d84873d45812aaa7e01e7385db427d1a9e572d4ee356ccb8f1e8504f6d5669e",
       "numItems": 40
     },
     {
@@ -53,7 +53,7 @@
       "normaId": "BOE-A-1992-28925",
       "fecha_referencia": "20260302T093706Z",
       "archivo": "norma-fiscal-RIVA.json",
-      "sha256": "25162fda30bf9d9088a164eb05982ee1ec6a40ac333758cc9f27a025901aa22c",
+      "sha256": "239d46c2a98828729cd85afa181419348828f0cb54de7500746ba3583e73b2f9",
       "numItems": 127
     },
     {
@@ -62,7 +62,7 @@
       "normaId": "BOE-A-2015-7771",
       "fecha_referencia": "20260529T070759Z",
       "archivo": "norma-fiscal-RIS.json",
-      "sha256": "1285236abdfa9cdedb07888e52c8e251aaab64e141d38a5e7d51a0b50f349de9",
+      "sha256": "2a7a01cb12189103e8a9a7817d4e68508f5a98cd4a62561503f31e5a68ee088c",
       "numItems": 70
     },
     {
@@ -71,7 +71,7 @@
       "normaId": "BOE-A-2007-6820",
       "fecha_referencia": "20260518T075944Z",
       "archivo": "norma-fiscal-RIRPF.json",
-      "sha256": "4e4af1c860bb5055f93bc2f7ec610195ea2dd9b5584d6847e05fe4191274ab07",
+      "sha256": "f45dca25dfa1f87803f89010d335b16d302578b037a8e37c8a8636fb1e976ed2",
       "numItems": 129
     },
     {
@@ -80,7 +80,7 @@
       "normaId": "BOE-A-1987-28141",
       "fecha_referencia": "20260115T110639Z",
       "archivo": "norma-fiscal-ISD.json",
-      "sha256": "8e794714b97a81876f6136f9f66a860a8fd6fda36bed8a429eb1011159998475",
+      "sha256": "4a38a2cf46cb94b4ed3831c44c124339ff5a420d288de14427f84063ab5da4fc",
       "numItems": 41
     },
     {
@@ -89,7 +89,7 @@
       "normaId": "BOE-A-1993-25359",
       "fecha_referencia": "20260323T123132Z",
       "archivo": "norma-fiscal-ITP.json",
-      "sha256": "d14c0bcbc249c2937cc6d58082d4f64a4086e65c52f4529f8d12e7a602873b39",
+      "sha256": "4f4de18937b8e137e58813e25fee7d7b2e091eb7811583c0292af5bba35cd7af",
       "numItems": 59
     },
     {
@@ -98,7 +98,7 @@
       "normaId": "BOE-A-2004-4527",
       "fecha_referencia": "20260623T065146Z",
       "archivo": "norma-fiscal-IRNR.json",
-      "sha256": "33ec549b08ecdeb574bd9bd219db29a38fcb97c7d46a7b2d88cae98e51bfcbd9",
+      "sha256": "7634c2730c931a59410cfe9dfe9e2cf43622a9737255b8da7d60abbf1ee9ec4d",
       "numItems": 54
     },
     {
@@ -107,7 +107,7 @@
       "normaId": "BOE-A-1992-28741",
       "fecha_referencia": "20260630T110842Z",
       "archivo": "norma-fiscal-IIEE.json",
-      "sha256": "f616dd68f18ee167f24577361f8952ed27b252c90181f6ee3251ef03db2925ac",
+      "sha256": "b36c6192e6fb8d0e9a15607505abcfe3b1ee5aa0c35943cb788b31732fcf14c0",
       "numItems": 120
     },
     {
@@ -116,7 +116,7 @@
       "normaId": "BOE-A-1978-31229",
       "fecha_referencia": "20260520T074424Z",
       "archivo": "norma-common-Constitucion.json",
-      "sha256": "a1720b9f2ebfc70451f9b920523c6478506e571c8570708cc15467225f9d869c",
+      "sha256": "9dd13185b3968f7b90d29007d05a9028c0ddd43b5c61a4b5243c3ad33dd720b2",
       "numItems": 169
     },
     {
@@ -125,7 +125,7 @@
       "normaId": "BOE-A-2015-10565",
       "fecha_referencia": "20260626T073733Z",
       "archivo": "norma-common-Ley39_2015.json",
-      "sha256": "572cb552aef4f817ed4e07035a095b36c2dc9db5c929326b924a7ee2ede3ca9e",
+      "sha256": "0be186c1d96f2af73cee0a39a24ab7a96b2c16c02288df743170f74716dad9e7",
       "numItems": 133
     },
     {
@@ -134,7 +134,7 @@
       "normaId": "BOE-A-2015-10566",
       "fecha_referencia": "20260629T071551Z",
       "archivo": "norma-common-Ley40_2015.json",
-      "sha256": "b7a165ebe9028e1d8caf324c5d711dcad0b92fbc38c9edfebed18379cbbd8667",
+      "sha256": "22c6f79cd23037352e749a14a1ff7526e8bef9ce3976cb69bdec6816b1dcd8a5",
       "numItems": 166
     },
     {
@@ -143,7 +143,7 @@
       "normaId": "BOE-A-1994-26003",
       "fecha_referencia": "20260430T073359Z",
       "archivo": "norma-civil-LAU.json",
-      "sha256": "0b6f73ccd0f73674089bea22607b0b0ecf018d52c4716ade1e945126a54e2c79",
+      "sha256": "e93c0a88519f35271a0939c0a8e5dff860385b44c46a64d34a4224d07fd539aa",
       "numItems": 40
     },
     {
@@ -152,7 +152,7 @@
       "normaId": "BOE-A-1889-4763",
       "fecha_referencia": "20260626T073703Z",
       "archivo": "norma-civil-CodigoCivil.json",
-      "sha256": "b9612e1b459c8eced4baa928727fe9bb10c9fe41aec7589fe42de5f13a4cbec9",
+      "sha256": "ff349770318174519044a9ce232a0d338ac8bb6d010a31226d59074352adee98",
       "numItems": 1951
     },
     {
@@ -161,7 +161,7 @@
       "normaId": "BOE-A-2000-323",
       "fecha_referencia": "20260327T103425Z",
       "archivo": "norma-civil-LEC.json",
-      "sha256": "59727fbfb69133ea1374eb54e5bb4c3c07c7fab0c89790d8b2e512913d530cd2",
+      "sha256": "c08ff3d78bef2ae5d6a1c627fecc2704a0e398f86129c5167312dce71d609805",
       "numItems": 867
     },
     {
@@ -170,7 +170,7 @@
       "normaId": "BOE-A-1946-2453",
       "fecha_referencia": "20260107T120435Z",
       "archivo": "norma-civil-LeyHipotecaria.json",
-      "sha256": "71c6a1c7ae1e155f3f1c0b6b5ad01c88a4339158f9f8636dc23e874f5777f6e7",
+      "sha256": "de02620b5338859b1fceacbf16413371b1f43dea26c4f2a0d23548a48e620a4b",
       "numItems": 336
     },
     {
@@ -179,7 +179,7 @@
       "normaId": "BOE-A-2010-10544",
       "fecha_referencia": "20251219T123733Z",
       "archivo": "norma-mercantil-LSC.json",
-      "sha256": "31ea246150a28cf69dd7e04b233c35145fcdbe1a355975441ee6f0e7f8f4e80d",
+      "sha256": "63e76e40a1d37b9354702b1c5ef0163dd646d92d01fbdfb4de5d51887ecb6a0c",
       "numItems": 604
     },
     {
@@ -188,7 +188,7 @@
       "normaId": "BOE-A-1885-6627",
       "fecha_referencia": "20251216T102453Z",
       "archivo": "norma-mercantil-CCom.json",
-      "sha256": "b590960515de46a1daf0ba89842acf19615c29af39d7f815ef0915f971c66961",
+      "sha256": "bf33fb8a23b1149507a417c3ef41e6347db14ce7d7f6f8cece15ea320287b55a",
       "numItems": 768
     },
     {
@@ -197,7 +197,7 @@
       "normaId": "BOE-A-2020-4859",
       "fecha_referencia": "20260424T114500Z",
       "archivo": "norma-mercantil-LeyConcursal.json",
-      "sha256": "6e6ea7f48c047bc4dcdf08943b3b2a3cffcb88c8a889d0ceaba5d63c6fd0a232",
+      "sha256": "ddb750f83392bfe6b40d46a0ba4ce8310e7b88185fb3230f496194c27e49d3d1",
       "numItems": 813
     },
     {
@@ -206,7 +206,7 @@
       "normaId": "BOE-A-2015-11430",
       "fecha_referencia": "20260630T114132Z",
       "archivo": "norma-laboral-ET.json",
-      "sha256": "1e3cb3fa12cf617a454c64ed85b08948f7b49720cb0584aa9c074167c369f268",
+      "sha256": "f256656f767fe92ddcda344bf684afe4bc5ae0d848a7427deb61d412f68a411d",
       "numItems": 95
     },
     {
@@ -215,7 +215,7 @@
       "normaId": "BOE-A-2011-15936",
       "fecha_referencia": "20260626T073734Z",
       "archivo": "norma-laboral-LRJS.json",
-      "sha256": "615e309eebf8daa83e4843d5d40967ab825306931c3d13ccb5a8f76c5d1ada2f",
+      "sha256": "7e456c49071255eba6aac8de1fa4ac7b8e4295d072d8b457790f5f1010dd7b82",
       "numItems": 310
     },
     {
@@ -224,7 +224,7 @@
       "normaId": "BOE-A-2015-11724",
       "fecha_referencia": "20260630T082129Z",
       "archivo": "norma-laboral-LGSS.json",
-      "sha256": "f8389a96a9727298fed6291d8924990fecb87e20bdd9aedcba7724143c5ad323",
+      "sha256": "48e766b0322b2a9beaafc4112d753c4314a6811ede9fdb1d8d842c338c8d298c",
       "numItems": 385
     },
     {
@@ -233,7 +233,7 @@
       "normaId": "BOE-A-1995-24292",
       "fecha_referencia": "20260622T064046Z",
       "archivo": "norma-laboral-LPRL.json",
-      "sha256": "0d58233c76576012c37677ddc671768cbbda1554061583bfe1451f20669a71f8",
+      "sha256": "480bcda359300f7569b9841d5f3c550e60fb3f858c3a34fecb0e0711af6dbc1a",
       "numItems": 55
     }
   ]
