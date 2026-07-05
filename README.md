@@ -1,8 +1,11 @@
-# alpau-normas
+# ALPAU - Normas (corpus de actualizacion)
 
-Paquetes de actualizacion de la base legal de ALPAU (Asistente Legal IA).
+Paquetes de normativa BOE para el actualizador de contenido de **ALPAU Asistente Legal IA**.
 
-Cada archivo `norma-*.json` contiene una norma consolidada estructurada en articulos.
-`manifest.json` lista las normas publicadas con su fecha de referencia y checksum sha256.
+Este repositorio es consumido automaticamente por la aplicacion. No esta pensado para uso directo.
 
-Fuente de los textos: Agencia Estatal Boletin Oficial del Estado (BOE), legislacion consolidada (datos abiertos, www.boe.es). Los textos oficiales son los publicados por el BOE.
+## Aviso legal
+
+La estructura, seleccion, procesamiento y vectorizacion de este corpus son obra de **Paremia International S.L.** Todos los derechos reservados. Los textos legales originales proceden del BOE y son de dominio publico; el resto de componentes de estos paquetes no lo son. Queda prohibida la reutilizacion de este corpus fuera de las condiciones de licencia de Paremia International S.L.
+
+**Contacto**: Paremia International S.L.
